@@ -1,0 +1,11 @@
+.introduction {
+  background-color: var(--fourth-color);
+}
+
+.content {
+  background-color: var(--primary-color);
+}
+
+.introduction_headline {
+  color: var(--secondary-color);
+}
